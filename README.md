@@ -1,6 +1,6 @@
 ## Sampling-Assigment
 
-# The focus of this project is to study how different sampling techniques can help create a balanced dataset that is suitable for a machine learning model. The starting dataset is imbalanced, so to address this, random over-sampling and under-sampling techniques are utilized to balance it out. Afterward, five different sampling techniques are applied to the balanced dataset, and the accuracy of each resulting sample is assessed using five distinct machine learning models.
+The focus of this project is to study how different sampling techniques can help create a balanced dataset that is suitable for a machine learning model. The starting dataset is imbalanced, so to address this, random over-sampling and under-sampling techniques are utilized to balance it out. Afterward, five different sampling techniques are applied to the balanced dataset, and the accuracy of each resulting sample is assessed using five distinct machine learning models.
 
 ## Result
 
